@@ -275,7 +275,7 @@
 </div>
 </details>
 
-<br>
+
 
 <details>
 <summary> 8. 채팅, 실시간 알림 </summary>
@@ -310,7 +310,7 @@
 </div>
 </details>
 
-<br>
+
 
 <details>
 <summary> 9. 배포 </summary>
